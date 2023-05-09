@@ -1,4 +1,4 @@
-package rayaan
+
 public class smr{
   public static void main(String args[])
   {
